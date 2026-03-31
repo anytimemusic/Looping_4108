@@ -21,4 +21,4 @@ int main(){
         <<", dengan nilai rata-rata = "<<rerata<<endl;
 
     return 0;
-}  
+}   
